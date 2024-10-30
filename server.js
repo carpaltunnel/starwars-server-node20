@@ -3,7 +3,7 @@ import { ApolloServer } from 'apollo-server-express';
 import { createServer } from 'http';
 import cors from 'cors';
 
-import schema from './data/schema';
+import schema from './data/schema.js';
 
 const PORT = 8080;
 

@@ -1,5 +1,7 @@
 # This repo is no longer maintained and has been archived.
 
+**NOTE** : This fork is still deprecated but updated so that it will actually run with Node.js v20.  This was done purely because the [GraphQL.org "learn" documentation](https://graphql.org/learn/queries/) references this data/implementation so it provides better examples for learning purposes.
+
 ## Star Wars Example Server
 
 This is a really simple GraphQL server that uses [Apollo Server](https://github.com/apollostack/apollo-server) and [GraphQL Tools](https://github.com/apollostack/graphql-tools) to serve the Star Wars example schema from http://www.graphql.org.
